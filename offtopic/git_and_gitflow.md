@@ -2,7 +2,17 @@
 
 En este documento se describe la forma correcta de trabajar en los proyectos de cara a GIT, y mas concretamente, a la metodología GITFLOW.
 
-[TOC]
+  * [Features](#features)
+    + [Inicio de desarrollo de una nueva historia](#inicio-de-desarrollo-de-una-nueva-historia)
+    + [Subida de feature a GIT](#subida-de-feature-a-git)
+    + [Fin del desarrollo](#fin-del-desarrollo)
+  * [releases](#releases)
+    + [Inicio de la creación de una nueva release](#inicio-de-la-creaci-n-de-una-nueva-release)
+    + [Finalización y publicación de una nueva release](#finalizaci-n-y-publicaci-n-de-una-nueva-release)
+  * [hotfixes](#hotfixes)
+    + [Inicio de desarrollo de una corrección](#inicio-de-desarrollo-de-una-correcci-n)
+    + [Fin de desarrollo de la corrección](#fin-de-desarrollo-de-la-correcci-n)
+  * [rebase](#rebase)
 
 ## Features
 
