@@ -5,10 +5,10 @@ Este repositorio nace por la necesidad de unificar en un mismo sitio todos aquel
 ## Tipos de contenidos
 - Manuales y enlaces especificos de wordpress core.
 - Manuales y enlaces especificos de plugins de terceros.
-- Recomendaciones de plugins de terceros en función a funcionalidades que vayamos implementando en nuestraos proyectos
+- Recomendaciones de plugins de terceros en función a funcionalidades que vayamos implementando en nuestros proyectos
 
 ## TODO
 
-- Incluir MD raiz que valga como punto de partida a la hora de navegar por los diferentes MD especificos que bayamos creando.
-- Crear estructura de carpetas que albergará lso diferentes MD que vayamos creando según el tipo de recurso que se comparta,de manera que tengamos un orden que nos permita saber donde debemos almacenar o donde debemos buscar a la hora de una consulta.
+- Incluir MD raiz que valga como punto de partida a la hora de navegar por los diferentes MD especificos que vayamos creando.
+- Crear estructura de carpetas que albergará los diferentes MD que vayamos creando según el tipo de recurso que se comparta,de manera que tengamos un orden que nos permita saber donde debemos almacenar o donde debemos buscar a la hora de una consulta.
 
