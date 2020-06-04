@@ -2,6 +2,8 @@
 
 En este documento se describe la forma correcta de trabajar en los proyectos de cara a GIT, y mas concretamente, a la metodología GITFLOW.
 
+[TOC]
+
 ## Features
 
 Un feature es una nueva rama sobre la que se desarrollará una funcionalidad o conjunto de funcionalidades, y que al finalizar, serán añadidos a la rama **develop**
@@ -32,13 +34,15 @@ A partir de esa primera subida, solo será necesario usar el siguiente comando p
 
 Una vez hemos finalizado el desarrollo que ibamos a incluir en nuestro feature, es necesario cerrarlo con el siguiente comando:
 
-- **git flow feature finishXXX**
+- **git flow feature finish FEATURE_UNIQ_NAME**
 
 Con este último comando, se hace el merge de la rama a develop y se borra el feature. Para subir los cambios en develop a la rama develop remota:
 
 - **git push origin develop**
 
 ## releases
+
+### Inicio de la creación de una nueva release
 
 Obtener las últimas versiones de master y develop
 
@@ -50,6 +54,8 @@ Cuando se quieren desplegar las features añadidas a develop desde la última re
 - **git flow release start x.x.x**
 
 Con el comando anterior, Git Flow crea una rama de release llamada release/x.x.x partiendo de la punta de develop. Esta es la última oportunidad para modificar la codebase antes del merge a master y hacer commits que no sean específicos de una feature concreta pero necesarios para la release.
+
+### Finalización y publicación de una nueva release
 
 Cuando la release está lista para ser desplegada:
 
