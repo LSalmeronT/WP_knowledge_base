@@ -2,13 +2,15 @@
 
 Este repositorio nace por la necesidad de unificar en un mismo sitio todos aquellos recursos que nos puedan ser utiles de cara a proyectos futuros realizados con Wordpress. 
 
-## Tipos de contenidos
-- Manuales y enlaces especificos de wordpress core.
-- Manuales y enlaces especificos de plugins de terceros.
-- Recomendaciones de plugins de terceros en función a funcionalidades que vayamos implementando en nuestros proyectos
+## Wordpress Core
+- [Instalación y configuración básica de Wordpress](https://github.com/LSalmeronT/WP_knowledge_base/blob/master/wpcore/Installation.md "Instalación y configuración básica de Wordpress")
+- [Migración de Wordpress](https://github.com/LSalmeronT/WP_knowledge_base/blob/master/wpcore/Migration.md "Migración de Wordpress")
+- [Implantar desarrollos de DEV a entornos PRO/PRE/INT](https://github.com/LSalmeronT/WP_knowledge_base/blob/master/wpcore/Environment_propagation.md "Implantar desarrollos de DEV a entornos PRO/PRE/INT")
 
-## TODO
+## Plugins
+- [Plugins recomendados por funcionalidad](https://github.com/LSalmeronT/WP_knowledge_base/blob/master/plugins/Recommended_plugins.md "Plugins recomendados por funcionalidad")
 
-- Incluir MD raiz que valga como punto de partida a la hora de navegar por los diferentes MD especificos que vayamos creando.
-- Crear estructura de carpetas que albergará los diferentes MD que vayamos creando según el tipo de recurso que se comparta,de manera que tengamos un orden que nos permita saber donde debemos almacenar o donde debemos buscar a la hora de una consulta.
+## Off Topic
+- [Trabajar con GIT y GITFLOW](https://github.com/LSalmeronT/WP_knowledge_base/blob/master/offtopic/git_and_gitflow.md "Trabajar con GIT y GITFLOW")
+
 
