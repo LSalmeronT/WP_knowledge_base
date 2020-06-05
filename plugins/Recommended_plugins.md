@@ -3,7 +3,7 @@
 Aqui se listan una serie de plugins recomendados para diferentes funcionalidades comunes que nos podemos encontrar en diferentes proyectos.
 
 | Funcionalidad  | Plugin | Url | Free | Pro |
-| ------------- | ------------- | ------------- | ------------- |
+| --- | --- | --- | --- | --- |
 | Firewall web  | Wordfence | <https://es.wordpress.org/plugins/wordfence> | Si | Si |
 | Foro  | bbPress  | <https://es.wordpress.org/plugins/bbpress>  | Si | - |
 | Personalizar 404  | All 404 redirect to homapage  | <https://es.wordpress.org/plugins/all-404-redirect-to-homepage/>  | Si | Si |
