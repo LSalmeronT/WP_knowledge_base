@@ -17,3 +17,4 @@ Aqui se listan una serie de plugins recomendados para diferentes funcionalidades
 | Cookies y GDPR  | Cookie Notice  | <https://es.wordpress.org/plugins/cookie-notice/> | Si | ? |
 | Configuracion SMTP  | EAsy WP SMTP  | <https://es.wordpress.org/plugins/easy-wp-smtp/> | Si | - |
 | Testimonios  | Testimonials Slider and Showcase  | <https://es.wordpress.org/plugins/testimonial-slider-and-showcase/>  | Si | Si |
+| Backup / Migración  | Duplicator  | <https://es.wordpress.org/plugins/duplicator/>  | Si | Si |
